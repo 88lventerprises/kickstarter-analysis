@@ -1,3 +1,4 @@
+# Kickstarting with Excel
 
 ## **Overview of Project**
 In this analysis our team is assisting an up-and-coming play write, Louise, review her crowdfunding campaign for her play, Fever. She had hesitancy in jumping into her first fund raising campaign and is relying on our skillset to make more informed decisions and create strategies that support her goals through a provided Kickstarter campaign data set. 
@@ -42,6 +43,7 @@ We can conclude that plays between $1000-$4999 have an average percentage succes
 
 Some limitations of the data set are primarily outliers that skew our ability analyze that data effectively as it has adverse outcomes of our mean value. An additional limitation of the data set, after placing the Kickstarter campaigns into subgroups, is the finite amount of data points. Also, genre and other demographics that may pinpoint outcome is not represented in our dataset, which can misinform our playwright. Variables are vast in the subject matter of Theatre and plays, more insight and target would have added more concrete evidence of the success, failure, or cancelation of a play.
 
+- What are some other possible tables and/or graphs that we could create?
 
 Other types of charts we could have used are stacked or clustered columns showing us a side-by-side barred representation on outcomes based on goals. This would've clearly defined which goals were most dominant 
 
